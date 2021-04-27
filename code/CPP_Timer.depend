@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1619508407 source:c:\users\jashliao\desktop\cpp_timer\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"multi_timer.h"
+
+1610278273 c:\users\jashliao\desktop\cpp_timer\multi_timer.h
+	"stdint.h"
+	"stddef.h"
+
+1610278273 source:c:\users\jashliao\desktop\cpp_timer\multi_timer.c
+	"multi_timer.h"
+
